@@ -17,12 +17,13 @@ h2 {
 
 p {
     color: darkblue;
-    
+    font-weight: bold;
 }
 
 h3 {
     color: darkblue;
-    text-align: right;
+    text-align: 0%;
+    margin-left:  830px;
 }
 
 h4 {
@@ -32,6 +33,7 @@ h4 {
 .photo-container {
     border: dotted red;
     padding-left: 0%;
-    width: 491px;
+    width: 1200px;
 }
 
+ 
