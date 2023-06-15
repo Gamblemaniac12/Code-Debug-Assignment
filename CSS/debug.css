@@ -1,0 +1,37 @@
+html {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: lightblue;
+}
+
+
+h1 {
+    color: darkblue;
+
+}
+h2 {
+    color: darkblue;
+}
+
+p {
+    color: darkblue;
+    
+}
+
+h3 {
+    color: darkblue;
+    text-align: right;
+}
+
+h4 {
+    text-decoration: underline;
+    color: darkblue;
+}
+.photo-container {
+    border: dotted red;
+    padding-left: 0%;
+    width: 491px;
+}
+
