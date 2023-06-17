@@ -31,7 +31,8 @@ h4 {
     color: darkblue;
 }
 .photo-container {
-    border: dotted red;
+    border: dashed red;
+    width: 2px;
     padding-left: 0%;
     width: 600px;
     height: 300px;
